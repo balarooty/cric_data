@@ -1,0 +1,13 @@
+{
+  "name": "cric_data",
+  "version": "1.0.0",
+  "description": "Scraper for CricInclusive fantasy match pages",
+  "main": "src/scrape-cricinclusive.js",
+  "scripts": {
+    "scrape": "node src/scrape-cricinclusive.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
